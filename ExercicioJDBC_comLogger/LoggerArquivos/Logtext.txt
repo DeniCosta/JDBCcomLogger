@@ -1,0 +1,66 @@
+abr. 30, 2023 11:59:08 PM jdbc.BancoDados <init>
+INFORMAÇÕES: 
+ O programa iniciou a chamada do banco de dados!
+abr. 30, 2023 11:59:10 PM jdbc.BancoDados conectar
+INFORMAÇÕES: 
+ Banco de dados conectado!
+abr. 30, 2023 11:59:43 PM jdbc.BancoDados consultar
+INFORMAÇÕES: 
+ Consulta realizada com sucesso!
+abr. 30, 2023 11:59:54 PM jdbc.BancoDados desconectar
+INFORMAÇÕES: 
+ Banco de dados desconectado!
+mai. 01, 2023 12:01:20 AM jdbc.BancoDados <init>
+INFORMAÇÕES: 
+ O programa iniciou a chamada do banco de dados!
+mai. 01, 2023 12:01:20 AM jdbc.BancoDados conectar
+INFORMAÇÕES: 
+ Banco de dados conectado!
+mai. 01, 2023 12:01:29 AM jdbc.BancoDados consultar
+INFORMAÇÕES: 
+ Consulta realizada com sucesso!
+mai. 01, 2023 12:01:48 AM jdbc.BancoDados desconectar
+INFORMAÇÕES: 
+ Banco de dados desconectado!
+mai. 01, 2023 12:14:29 AM jdbc.BancoDados <init>
+INFORMAÇÕES: 
+ O programa iniciou a chamada do banco de dados!
+mai. 01, 2023 12:14:29 AM jdbc.BancoDados conectar
+INFORMAÇÕES: 
+ Banco de dados conectado!
+mai. 01, 2023 12:16:11 AM jdbc.BancoDados consultar
+INFORMAÇÕES: 
+ Consulta realizada com sucesso!
+mai. 01, 2023 12:16:54 AM jdbc.BancoDados inserirAlterarExcluir
+INFORMAÇÕES: 
+ Cadastro realizado com sucesso!
+mai. 01, 2023 12:17:09 AM jdbc.BancoDados consultar
+INFORMAÇÕES: 
+ Consulta realizada com sucesso!
+mai. 01, 2023 12:17:47 AM jdbc.BancoDados inserirAlterarExcluir
+INFORMAÇÕES: 
+ Atualização realizada com sucesso!
+mai. 01, 2023 12:17:54 AM jdbc.BancoDados consultar
+INFORMAÇÕES: 
+ Consulta realizada com sucesso!
+mai. 01, 2023 12:18:10 AM jdbc.BancoDados consultar
+INFORMAÇÕES: 
+ Consulta realizada com sucesso!
+mai. 01, 2023 12:18:17 AM jdbc.BancoDados inserirAlterarExcluir
+INFORMAÇÕES: 
+ Exclusão realizada com sucesso!
+mai. 01, 2023 12:18:26 AM jdbc.BancoDados desconectar
+INFORMAÇÕES: 
+ Banco de dados desconectado!
+mai. 01, 2023 12:19:52 AM jdbc.BancoDados <init>
+INFORMAÇÕES: 
+ O programa iniciou a chamada do banco de dados!
+mai. 01, 2023 12:19:52 AM jdbc.BancoDados conectar
+INFORMAÇÕES: 
+ Banco de dados conectado!
+mai. 01, 2023 12:20:03 AM jdbc.BancoDados consultar
+INFORMAÇÕES: 
+ Consulta realizada com sucesso!
+mai. 01, 2023 12:20:06 AM jdbc.BancoDados desconectar
+INFORMAÇÕES: 
+ Banco de dados desconectado!
